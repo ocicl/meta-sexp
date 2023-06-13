@@ -1,0 +1,10 @@
+* meta-sexp
+
+A META parser generator using LL(1) grammars with s-expressions.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/vy/meta-sexp.git   |
+| commit  | 95199ec  |
+| systems | meta-sexp |
+|---------+-------------------------------------------|
+
